@@ -10,6 +10,6 @@ I read Convolutional Neural Networks for Sentence Classification https://arxiv.o
 2. cnn repo stores pytorch version of implementation of Convolutional Neural Networks for Sentence Classification, for tensorflow version you can find it https://github.com/dennybritz/cnn-text-classification-tf 
 
 ## How to run
-1. enter lstm_cnn 
+1. enter lstm_cnn repo
 2. python lstm_cnn.py (without crossvalidation)
    python lstm_cnn_cv.py (for crossvalidation)
