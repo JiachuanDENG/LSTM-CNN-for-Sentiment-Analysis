@@ -4,7 +4,7 @@ I read Convolutional Neural Networks for Sentence Classification https://arxiv.o
 ## Model
 ![screen shot 2018-01-23 at 11 36 08 pm](https://user-images.githubusercontent.com/20760190/35314759-3d753056-0096-11e8-9282-67601fe00b81.png)
 ## Results
-![screen shot 2018-01-23 at 11 36 19 pm](https://user-images.githubusercontent.com/20760190/35314760-3d84354c-0096-11e8-900c-4c0e63e7e533.png)
+![screen shot 2018-01-23 at 11 36 19 pm](https://user-images.githubusercontent.com/20760190/35314760-3d84354c-0096-11e8-900c-4c0e63e7e533.png)<br>
 Note that here for simplicity, we did not apply Google word2vec, so the results should be worse than the original paper, but easier to implement :)
 ## File Description
 1. lstm_cnn repo stores codes for our model
